@@ -1,4 +1,4 @@
-#Solutions
+# Solutions
 
 These are my written solutions to various contests such as CCC, ECOO, DMOPC, etc.
 
